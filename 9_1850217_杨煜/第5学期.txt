@@ -1,0 +1,11 @@
+                 周一                              周二                              周三                              周四                              周五                              
+0                                                                                       英语                           C#.net                         ASP程序设计     
+1                                                                                       英语                           C#.net                         ASP程序设计     
+2               英语                           C#.net                         ASP程序设计                                                                             
+3               英语                           C#.net                         ASP程序设计                                                                             
+4               英语                           C#.net                         ASP程序设计                                                                             
+5                                                                                       计算机网络                     PowerBuilder                   JSP程序设计     
+6                                                                                       计算机网络                     PowerBuilder                   JSP程序设计     
+7               计算机网络                     PowerBuilder                   JSP程序设计                                                                             
+8               计算机网络                     PowerBuilder                   JSP程序设计                                                                             
+9               计算机网络                     PowerBuilder                   JSP程序设计                                                                             
